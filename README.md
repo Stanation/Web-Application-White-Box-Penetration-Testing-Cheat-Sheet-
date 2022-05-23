@@ -12,5 +12,21 @@ Start from the source code, identify the code architecture, endpoints, functiona
 Start from the web application, identify functionality, use web proxy to analyse requests and response. Then go into the source code and identify specific sections of the source code, functions/methods and files used by the functionality. Try to identify issues by starting from these sections of the source code.
 
 # Tools
+## Source code recovery
+### From JAR file to Java file 
+### From .NET DLL to C#
+
+## Debugging
+### PHP web application
+### Java web application
+### Javascript web application
+
 
 # Common Issues
+## Cross Site Scripting (XSS)
+## Insecure Deserialization
+## File upload restriction bypass
+## Time based randomisation
+## Type juggling
+## Server Side Template injection (SSTI)
+## SQL injection
